@@ -1,0 +1,41 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Install minimal system dependencies
+RUN apt-get update && apt-get install -y \
+    ffmpeg \
+    git \
+    wget \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install essential Python packages only (no pyaudio)
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir \
+    # Text-to-Speech
+    gtts \
+    edge-tts \
+    # Speech-to-Text (without pyaudio)
+    openai-whisper \
+    # Web frameworks
+    streamlit \
+    # Data processing
+    pandas \
+    numpy \
+    pydub \
+    # Translation
+    deep-translator \
+    # Utilities
+    requests
+
+# Download small Whisper model
+RUN python -c "import whisper; whisper.load_model('tiny')"
+
+# Create necessary directories
+RUN mkdir -p /app/outputs /app/uploads
+
+COPY . /app/
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]

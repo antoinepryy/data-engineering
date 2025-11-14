@@ -1,0 +1,23 @@
+# Override file pour configurations alternatives
+# Pour utiliser: docker-compose -f docker-compose.yml -f docker-compose.override.yml up
+
+version: '3.8'
+
+services:
+  # Version allégée du module vocal (sans pyaudio)
+  vocal-python-lite:
+    build:
+      context: ./module-1-vocal
+      dockerfile: Dockerfile.python.lite
+    container_name: vocal-python-lite
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./module-1-vocal:/app
+      - ./data:/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    networks:
+      - formation-network
+    stdin_open: true
+    tty: true

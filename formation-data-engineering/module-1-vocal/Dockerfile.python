@@ -1,0 +1,77 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Install system dependencies including build tools for pyaudio and TTS engines
+RUN apt-get update && apt-get install -y \
+    # Build tools
+    gcc \
+    g++ \
+    make \
+    # Audio dependencies
+    ffmpeg \
+    libportaudio2 \
+    libasound2-dev \
+    portaudio19-dev \
+    python3-pyaudio \
+    # TTS engines for pyttsx3
+    espeak \
+    espeak-ng \
+    libespeak-dev \
+    festival \
+    # Other tools
+    git \
+    wget \
+    unzip \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python packages
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir \
+    # Text-to-Speech
+    pyttsx3 \
+    gtts \
+    edge-tts \
+    # Speech-to-Text
+    SpeechRecognition \
+    pyaudio \
+    openai-whisper \
+    vosk \
+    # Web frameworks
+    streamlit \
+    flask \
+    flask-cors \
+    # Data processing & Visualization
+    pandas \
+    numpy \
+    librosa \
+    soundfile \
+    pydub \
+    matplotlib \
+    scipy \
+    # Translation
+    googletrans==4.0.0-rc1 \
+    deep-translator \
+    # Utilities
+    python-dotenv \
+    requests \
+    aiohttp
+
+# Download Vosk model for offline STT
+RUN mkdir -p /app/models && \
+    cd /app/models && \
+    wget -q https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip && \
+    unzip -q vosk-model-small-en-us-0.15.zip && \
+    rm vosk-model-small-en-us-0.15.zip
+
+# Download small Whisper model
+RUN python -c "import whisper; whisper.load_model('tiny')"
+
+# Create necessary directories
+RUN mkdir -p /app/outputs /app/uploads /app/public
+
+COPY . /app/
+
+EXPOSE 5000 8501
+
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
