@@ -1,0 +1,1112 @@
+[
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO16069",
+    "poi_name": {
+      "fr": "POI Test 1 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_5"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_13",
+        "zip_code": "14380",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.86463647850655,
+        "longitude": 2.1690777383824136
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO39608",
+        "last_update": "2025-12-18T08:50:41.281231"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO82821",
+    "poi_name": {
+      "fr": "POI Test 2 - tourinsoft"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_5"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_13",
+        "zip_code": "61779",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.90792928105514,
+        "longitude": 2.0880359744449803
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO56201",
+        "last_update": "2025-12-18T08:50:41.281241"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO52605",
+    "poi_name": {
+      "fr": "POI Test 3 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_42",
+        "zip_code": "80354",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.93083094900824,
+        "longitude": 2.0270435004637024
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO37090",
+        "last_update": "2025-12-18T08:50:41.281246"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO32322",
+    "poi_name": {
+      "fr": "POI Test 4 - tourinsoft"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_10"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_23",
+        "zip_code": "15624",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.01627521146439,
+        "longitude": 2.674311279636592
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO52884",
+        "last_update": "2025-12-18T08:50:41.281250"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO53199",
+    "poi_name": {
+      "fr": "POI Test 5 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_5"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_36",
+        "zip_code": "11635",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.674575001015185,
+        "longitude": 2.6082422859152357
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO17902",
+        "last_update": "2025-12-18T08:50:41.281254"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO35073",
+    "poi_name": {
+      "fr": "POI Test 6 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_8"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_20",
+        "zip_code": "39181",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.89993395435111,
+        "longitude": 2.1171115402578935
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO35268",
+        "last_update": "2025-12-18T08:50:41.281258"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO96501",
+    "poi_name": {
+      "fr": "POI Test 7 - tourinsoft"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_1"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_70",
+        "zip_code": "37785",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.79389850722237,
+        "longitude": 2.031662209650389
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO30348",
+        "last_update": "2025-12-18T08:50:41.281261"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO81513",
+    "poi_name": {
+      "fr": "POI Test 8 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_7"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_92",
+        "zip_code": "66846",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.63932031296547,
+        "longitude": 2.2446662244432076
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO29538",
+        "last_update": "2025-12-18T08:50:41.281266"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO89402",
+    "poi_name": {
+      "fr": "POI Test 9 - tourinsoft"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_2"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_88",
+        "zip_code": "71910",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.496375202702545,
+        "longitude": 2.716649152478877
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO40453",
+        "last_update": "2025-12-18T08:50:41.281269"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO36729",
+    "poi_name": {
+      "fr": "POI Test 10 - tourinsoft"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_6"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_78",
+        "zip_code": "17803",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.05445652731843,
+        "longitude": 1.9269445343962261
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO13454",
+        "last_update": "2025-12-18T08:50:41.281273"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO19909",
+    "poi_name": {
+      "fr": "POI Test 11 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_1"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_62",
+        "zip_code": "14538",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.592387191408136,
+        "longitude": 2.719811915193609
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO81061",
+        "last_update": "2025-12-18T08:50:41.281277"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO73629",
+    "poi_name": {
+      "fr": "POI Test 12 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_8"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_45",
+        "zip_code": "25252",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.8555629149338,
+        "longitude": 2.6947492615414554
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO18027",
+        "last_update": "2025-12-18T08:50:41.281280"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO78577",
+    "poi_name": {
+      "fr": "POI Test 13 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_9"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_43",
+        "zip_code": "76601",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.48103528499537,
+        "longitude": 2.565513045064961
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO60897",
+        "last_update": "2025-12-18T08:50:41.281284"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO97222",
+    "poi_name": {
+      "fr": "POI Test 14 - tourinsoft"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_10"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_37",
+        "zip_code": "49277",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.510341821176794,
+        "longitude": 1.8697858218920005
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO20494",
+        "last_update": "2025-12-18T08:50:41.281287"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO31189",
+    "poi_name": {
+      "fr": "POI Test 15 - tourinsoft"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_1"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_57",
+        "zip_code": "84932",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.62237766945809,
+        "longitude": 1.813332446601812
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO67281",
+        "last_update": "2025-12-18T08:50:41.281291"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO39698",
+    "poi_name": {
+      "fr": "POI Test 16 - tourinsoft"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_3"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_69",
+        "zip_code": "93654",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.998088826377995,
+        "longitude": 2.5616445218917527
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO16832",
+        "last_update": "2025-12-18T08:50:41.281295"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO93328",
+    "poi_name": {
+      "fr": "POI Test 17 - tourinsoft"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_3"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_57",
+        "zip_code": "62139",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.75514270636229,
+        "longitude": 2.5644143526988943
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO81854",
+        "last_update": "2025-12-18T08:50:41.281298"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO23252",
+    "poi_name": {
+      "fr": "POI Test 18 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_3"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_94",
+        "zip_code": "59304",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.17036719951378,
+        "longitude": 2.7041833819010392
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO78808",
+        "last_update": "2025-12-18T08:50:41.281302"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO29614",
+    "poi_name": {
+      "fr": "POI Test 19 - tourinsoft"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_9"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_81",
+        "zip_code": "95150",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.2063685309884,
+        "longitude": 2.354688712786802
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO18493",
+        "last_update": "2025-12-18T08:50:41.281305"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO99178",
+    "poi_name": {
+      "fr": "POI Test 20 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_8"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_74",
+        "zip_code": "52597",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.36465275586248,
+        "longitude": 1.9671259033547397
+      }
+    ],
+    "closed": false,
+    "display": false,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO82300",
+        "last_update": "2025-12-18T08:50:41.281309"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO56736",
+    "poi_name": {
+      "fr": "POI Test 21 - tourinsoft"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_3"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_75",
+        "zip_code": "78139",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.926863968810366,
+        "longitude": 1.9992305629436575
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO94159",
+        "last_update": "2025-12-18T08:50:41.281312"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO36941",
+    "poi_name": {
+      "fr": "POI Test 22 - tourinsoft"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_9"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_97",
+        "zip_code": "65824",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.8408176553259,
+        "longitude": 2.6725105933994087
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO12255",
+        "last_update": "2025-12-18T08:50:41.281316"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO68473",
+    "poi_name": {
+      "fr": "POI Test 23 - tourinsoft"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_2"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_7",
+        "zip_code": "43513",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.966456839606174,
+        "longitude": 2.302498674728911
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO53562",
+        "last_update": "2025-12-18T08:50:41.281405"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO99556",
+    "poi_name": {
+      "fr": "POI Test 24 - tourinsoft"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_8"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_77",
+        "zip_code": "22107",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.929414111155154,
+        "longitude": 2.7334306277611353
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO91146",
+        "last_update": "2025-12-18T08:50:41.281409"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO23271",
+    "poi_name": {
+      "fr": "POI Test 25 - tourinsoft"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_8"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_29",
+        "zip_code": "23237",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.07096434357084,
+        "longitude": 2.6623290948221543
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO29484",
+        "last_update": "2025-12-18T08:50:41.281413"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO80851",
+    "poi_name": {
+      "fr": "POI Test 26 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_8"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_26",
+        "zip_code": "72237",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.21537446744325,
+        "longitude": 2.4990563703859867
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO22737",
+        "last_update": "2025-12-18T08:50:41.281417"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO81836",
+    "poi_name": {
+      "fr": "POI Test 27 - tourinsoft"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_10"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_34",
+        "zip_code": "58005",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.87228413206487,
+        "longitude": 2.765025963262909
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO59307",
+        "last_update": "2025-12-18T08:50:41.281420"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO79915",
+    "poi_name": {
+      "fr": "POI Test 28 - tourinsoft"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_1"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_88",
+        "zip_code": "64739",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.93729231745618,
+        "longitude": 2.606459847667577
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO57070",
+        "last_update": "2025-12-18T08:50:41.281425"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO91911",
+    "poi_name": {
+      "fr": "POI Test 29 - tourinsoft"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_8"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_53",
+        "zip_code": "58898",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.00246190358166,
+        "longitude": 1.8983960911588642
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO43924",
+        "last_update": "2025-12-18T08:50:41.281429"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tourinsoft",
+    "reference": "TO61458",
+    "poi_name": {
+      "fr": "POI Test 30 - tourinsoft"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_82",
+        "zip_code": "22564",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.5897794280995,
+        "longitude": 2.018506987649591
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO53409",
+        "last_update": "2025-12-18T08:50:41.281432"
+      }
+    ]
+  }
+]

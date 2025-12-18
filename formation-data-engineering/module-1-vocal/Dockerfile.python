@@ -14,7 +14,7 @@ RUN apt-get update && apt-get install -y \
     libasound2-dev \
     portaudio19-dev \
     python3-pyaudio \
-    # TTS engines for pyttsx3
+    # TTS engines for pyttsx3 (espeak-ng includes French voices by default)
     espeak \
     espeak-ng \
     libespeak-dev \
@@ -57,12 +57,15 @@ RUN pip install --no-cache-dir --upgrade pip && \
     requests \
     aiohttp
 
-# Download Vosk model for offline STT
+# Download Vosk models for offline STT (English and French)
 RUN mkdir -p /app/models && \
     cd /app/models && \
     wget -q https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip && \
     unzip -q vosk-model-small-en-us-0.15.zip && \
-    rm vosk-model-small-en-us-0.15.zip
+    rm vosk-model-small-en-us-0.15.zip && \
+    wget -q https://alphacephei.com/vosk/models/vosk-model-small-fr-0.22.zip && \
+    unzip -q vosk-model-small-fr-0.22.zip && \
+    rm vosk-model-small-fr-0.22.zip
 
 # Download small Whisper model
 RUN python -c "import whisper; whisper.load_model('tiny')"

@@ -1,0 +1,212 @@
+# Docker Compose pour le Module 3 - Pipeline ETL POI
+# Formation Data Engineering
+#
+# Usage:
+#   docker-compose up -d
+#   docker-compose logs -f
+#   docker-compose down -v
+
+version: '3.8'
+
+x-airflow-common: &airflow-common
+  build:
+    context: .
+    dockerfile: Dockerfile
+  environment: &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres-poi/airflow
+    AIRFLOW__CORE__FERNET_KEY: ''
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'false'
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    AIRFLOW__API__AUTH_BACKENDS: 'airflow.api.auth.backend.basic_auth'
+    AIRFLOW__WEBSERVER__EXPOSE_CONFIG: 'true'
+    AIRFLOW__WEBSERVER__SECRET_KEY: 'formation-data-engineering-secret-key'
+    _PIP_ADDITIONAL_REQUIREMENTS: ''
+    PYTHONPATH: /opt/airflow/scripts
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./scripts:/opt/airflow/scripts
+    - ./plugins:/opt/airflow/plugins
+    - ./data:/opt/airflow/data
+    - airflow-logs:/opt/airflow/logs
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on: &airflow-common-depends-on
+    postgres-poi:
+      condition: service_healthy
+
+services:
+  # ==========================================================================
+  # PostgreSQL pour Airflow
+  # ==========================================================================
+  postgres-poi:
+    image: postgres:15
+    container_name: postgres-poi-module3
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres-poi-data:/var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 5s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - poi-network
+
+  # ==========================================================================
+  # Airflow Webserver
+  # ==========================================================================
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow-webserver-poi
+    command: webserver
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - poi-network
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  # ==========================================================================
+  # Airflow Scheduler
+  # ==========================================================================
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow-scheduler-poi
+    command: scheduler
+    healthcheck:
+      test: ["CMD-SHELL", 'airflow jobs check --job-type SchedulerJob --hostname "$${HOSTNAME}"']
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - poi-network
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  # ==========================================================================
+  # Airflow Triggerer (pour les deferrable operators)
+  # ==========================================================================
+  airflow-triggerer:
+    <<: *airflow-common
+    container_name: airflow-triggerer-poi
+    command: triggerer
+    healthcheck:
+      test: ["CMD-SHELL", 'airflow jobs check --job-type TriggererJob --hostname "$${HOSTNAME}"']
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - poi-network
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  # ==========================================================================
+  # Airflow Init - Initialisation de la base et création de l'admin
+  # ==========================================================================
+  airflow-init:
+    <<: *airflow-common
+    container_name: airflow-init-poi
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        echo "Initializing Airflow..."
+        airflow db init
+        airflow users create \
+          --username admin \
+          --firstname Admin \
+          --lastname User \
+          --role Admin \
+          --email admin@formation.com \
+          --password admin
+        echo "Airflow initialized successfully!"
+    environment:
+      <<: *airflow-common-env
+      _AIRFLOW_DB_UPGRADE: 'true'
+      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: 'admin'
+      _AIRFLOW_WWW_USER_PASSWORD: 'admin'
+    networks:
+      - poi-network
+
+  # ==========================================================================
+  # Streamlit Dashboard
+  # ==========================================================================
+  poi-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    container_name: poi-dashboard
+    ports:
+      - "8501:8501"
+    environment:
+      - DATA_DIR=/data
+    volumes:
+      - ./app:/app
+      - ./data:/data
+    restart: unless-stopped
+    networks:
+      - poi-network
+    depends_on:
+      - airflow-webserver
+
+  # ==========================================================================
+  # PostgreSQL pour les données POI (optionnel)
+  # ==========================================================================
+  postgres-poi-data:
+    image: postgres:15
+    container_name: postgres-poi-data
+    environment:
+      POSTGRES_USER: poi
+      POSTGRES_PASSWORD: poi
+      POSTGRES_DB: poi_database
+    volumes:
+      - postgres-poi-db:/var/lib/postgresql/data
+      - ./scripts/init_db.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5434:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "poi", "-d", "poi_database"]
+      interval: 5s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - poi-network
+
+# ==========================================================================
+# Volumes
+# ==========================================================================
+volumes:
+  postgres-poi-data:
+    name: module3-postgres-airflow
+  postgres-poi-db:
+    name: module3-postgres-poi
+  airflow-logs:
+    name: module3-airflow-logs
+
+# ==========================================================================
+# Network
+# ==========================================================================
+networks:
+  poi-network:
+    name: module3-poi-network
+    driver: bridge

@@ -1,0 +1,1112 @@
+[
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR32528",
+    "poi_name": {
+      "fr": "POI Test 1 - tripadvisor"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_10"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_22",
+        "zip_code": "99415",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.152741932848464,
+        "longitude": 2.1243618324710876
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR55188",
+        "last_update": "2025-12-18T08:50:41.276644"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR26863",
+    "poi_name": {
+      "fr": "POI Test 2 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_7"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_42",
+        "zip_code": "76698",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.74079921340613,
+        "longitude": 1.9384581762747333
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR65599",
+        "last_update": "2025-12-18T08:50:41.276653"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR74988",
+    "poi_name": {
+      "fr": "POI Test 3 - tripadvisor"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_2"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_84",
+        "zip_code": "22740",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.52032557162257,
+        "longitude": 2.581246074127871
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR78965",
+        "last_update": "2025-12-18T08:50:41.276657"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR45363",
+    "poi_name": {
+      "fr": "POI Test 4 - tripadvisor"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_7"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_37",
+        "zip_code": "55436",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.7416869911678,
+        "longitude": 1.8063529302643417
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR93275",
+        "last_update": "2025-12-18T08:50:41.276661"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR75926",
+    "poi_name": {
+      "fr": "POI Test 5 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_10"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_92",
+        "zip_code": "16322",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.85335281143816,
+        "longitude": 2.376172444165129
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR90545",
+        "last_update": "2025-12-18T08:50:41.276664"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR57550",
+    "poi_name": {
+      "fr": "POI Test 6 - tripadvisor"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_6"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_78",
+        "zip_code": "63289",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.84816055994154,
+        "longitude": 2.331523747354556
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR57060",
+        "last_update": "2025-12-18T08:50:41.276668"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR58918",
+    "poi_name": {
+      "fr": "POI Test 7 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_5"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_96",
+        "zip_code": "96571",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.65360619567681,
+        "longitude": 2.6189357916671323
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR60115",
+        "last_update": "2025-12-18T08:50:41.276672"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR18710",
+    "poi_name": {
+      "fr": "POI Test 8 - tripadvisor"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_6"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_71",
+        "zip_code": "78493",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.99088489005999,
+        "longitude": 2.5195666029777803
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR42970",
+        "last_update": "2025-12-18T08:50:41.276675"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR56101",
+    "poi_name": {
+      "fr": "POI Test 9 - tripadvisor"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_6"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_63",
+        "zip_code": "40384",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.59261869829475,
+        "longitude": 2.425121186084919
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR41257",
+        "last_update": "2025-12-18T08:50:41.276679"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR46859",
+    "poi_name": {
+      "fr": "POI Test 10 - tripadvisor"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_5"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_17",
+        "zip_code": "53774",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.43543546465077,
+        "longitude": 2.6748587066679423
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR29525",
+        "last_update": "2025-12-18T08:50:41.276682"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR76734",
+    "poi_name": {
+      "fr": "POI Test 11 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_2"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_57",
+        "zip_code": "44936",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.69496257654855,
+        "longitude": 1.8710335858524683
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR11436",
+        "last_update": "2025-12-18T08:50:41.276685"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR68105",
+    "poi_name": {
+      "fr": "POI Test 12 - tripadvisor"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_9"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_23",
+        "zip_code": "25269",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.160768388781804,
+        "longitude": 2.707259411516599
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR86983",
+        "last_update": "2025-12-18T08:50:41.276689"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR22576",
+    "poi_name": {
+      "fr": "POI Test 13 - tripadvisor"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_10",
+        "zip_code": "66545",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.078216740448724,
+        "longitude": 2.376434143683051
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR67721",
+        "last_update": "2025-12-18T08:50:41.276692"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR22041",
+    "poi_name": {
+      "fr": "POI Test 14 - tripadvisor"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_57",
+        "zip_code": "14554",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.77715849818809,
+        "longitude": 2.751839302274872
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR39810",
+        "last_update": "2025-12-18T08:50:41.276695"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR69597",
+    "poi_name": {
+      "fr": "POI Test 15 - tripadvisor"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_27",
+        "zip_code": "11616",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.933789544527414,
+        "longitude": 2.5223962747258435
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR82118",
+        "last_update": "2025-12-18T08:50:41.276699"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR67779",
+    "poi_name": {
+      "fr": "POI Test 16 - tripadvisor"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_10"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_71",
+        "zip_code": "55776",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.17465123095538,
+        "longitude": 2.544015234824884
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR37420",
+        "last_update": "2025-12-18T08:50:41.276702"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR97034",
+    "poi_name": {
+      "fr": "POI Test 17 - tripadvisor"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_7"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_9",
+        "zip_code": "22162",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.2650834930163,
+        "longitude": 2.278694629302951
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR26525",
+        "last_update": "2025-12-18T08:50:41.276706"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR84388",
+    "poi_name": {
+      "fr": "POI Test 18 - tripadvisor"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_2"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_99",
+        "zip_code": "89163",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.206253003744436,
+        "longitude": 2.3888379316996264
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR18747",
+        "last_update": "2025-12-18T08:50:41.276709"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR48706",
+    "poi_name": {
+      "fr": "POI Test 19 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_9"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_57",
+        "zip_code": "73579",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.56746343406622,
+        "longitude": 2.3631664532329832
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR39905",
+        "last_update": "2025-12-18T08:50:41.276712"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR56288",
+    "poi_name": {
+      "fr": "POI Test 20 - tripadvisor"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_7"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_37",
+        "zip_code": "86202",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.7835742606348,
+        "longitude": 2.4035960622449366
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR40352",
+        "last_update": "2025-12-18T08:50:41.276715"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR43881",
+    "poi_name": {
+      "fr": "POI Test 21 - tripadvisor"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_47",
+        "zip_code": "51002",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.174290737642835,
+        "longitude": 2.101637468692977
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR48512",
+        "last_update": "2025-12-18T08:50:41.276719"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR11708",
+    "poi_name": {
+      "fr": "POI Test 22 - tripadvisor"
+    },
+    "types": [
+      "sites"
+    ],
+    "tags": [
+      "tag_9"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_1",
+        "zip_code": "14330",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.9098290560666,
+        "longitude": 2.0079507884416086
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR13306",
+        "last_update": "2025-12-18T08:50:41.276722"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR83472",
+    "poi_name": {
+      "fr": "POI Test 23 - tripadvisor"
+    },
+    "types": [
+      "accommodations"
+    ],
+    "tags": [
+      "tag_3"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_84",
+        "zip_code": "36102",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.988599681973156,
+        "longitude": 2.2764953282321794
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR46143",
+        "last_update": "2025-12-18T08:50:41.276801"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR86035",
+    "poi_name": {
+      "fr": "POI Test 24 - tripadvisor"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_1"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_100",
+        "zip_code": "57437",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.822052411784256,
+        "longitude": 2.157332443023244
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR48546",
+        "last_update": "2025-12-18T08:50:41.276805"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR31112",
+    "poi_name": {
+      "fr": "POI Test 25 - tripadvisor"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_6"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_16",
+        "zip_code": "11747",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.72946372549918,
+        "longitude": 1.8281747378873794
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR11454",
+        "last_update": "2025-12-18T08:50:41.276808"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR35115",
+    "poi_name": {
+      "fr": "POI Test 26 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_46",
+        "zip_code": "11597",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.87113678519846,
+        "longitude": 2.0265008161260485
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR58556",
+        "last_update": "2025-12-18T08:50:41.276812"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR10847",
+    "poi_name": {
+      "fr": "POI Test 27 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_4"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_100",
+        "zip_code": "38447",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.839506998695725,
+        "longitude": 2.068625776386285
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR60986",
+        "last_update": "2025-12-18T08:50:41.276815"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR78165",
+    "poi_name": {
+      "fr": "POI Test 28 - tripadvisor"
+    },
+    "types": [
+      "activities"
+    ],
+    "tags": [
+      "tag_10"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_60",
+        "zip_code": "22617",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.9942146831608,
+        "longitude": 2.2258131778939796
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR50441",
+        "last_update": "2025-12-18T08:50:41.276819"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR28845",
+    "poi_name": {
+      "fr": "POI Test 29 - tripadvisor"
+    },
+    "types": [
+      "events"
+    ],
+    "tags": [
+      "tag_9"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_60",
+        "zip_code": "78776",
+        "region": "Ile-de-France",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.341137639130125,
+        "longitude": 2.6804607192961596
+      }
+    ],
+    "closed": false,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR55072",
+        "last_update": "2025-12-18T08:50:41.276822"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "source": "tripadvisor",
+    "reference": "TR55184",
+    "poi_name": {
+      "fr": "POI Test 30 - tripadvisor"
+    },
+    "types": [
+      "restaurants"
+    ],
+    "tags": [
+      "tag_7"
+    ],
+    "addresses": [
+      {
+        "city": "Ville_81",
+        "zip_code": "56861",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.97869308287724,
+        "longitude": 1.932866860096496
+      }
+    ],
+    "closed": true,
+    "display": true,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR18395",
+        "last_update": "2025-12-18T08:50:41.276825"
+      }
+    ]
+  }
+]

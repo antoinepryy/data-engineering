@@ -1,0 +1,1472 @@
+[
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 1 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_18",
+        "zip_code": "50333",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.103073850007355,
+        "longitude": 1.9744614787957229,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP61390",
+        "last_update": "2025-12-18T08:50:41.277643"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 2 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_47",
+        "zip_code": "74331",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.59848459005265,
+        "longitude": 1.938095754974705,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP78712",
+        "last_update": "2025-12-18T08:50:41.277650"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 3 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_42",
+        "zip_code": "22182",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.12537590454127,
+        "longitude": 2.470390862733682,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP83296",
+        "last_update": "2025-12-18T08:50:41.277654"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 4 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_73",
+        "zip_code": "47188",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.58668745051609,
+        "longitude": 2.17881498899039,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP54884",
+        "last_update": "2025-12-18T08:50:41.277658"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 5 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_25",
+        "zip_code": "70570",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.28910258792722,
+        "longitude": 1.8115412299945406,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP23088",
+        "last_update": "2025-12-18T08:50:41.277662"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 6 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_4",
+        "zip_code": "16142",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.76383290761113,
+        "longitude": 2.5804337447388965,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP45394",
+        "last_update": "2025-12-18T08:50:41.277665"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 7 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_34",
+        "zip_code": "30523",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.76735111533229,
+        "longitude": 2.66910861689912,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP15359",
+        "last_update": "2025-12-18T08:50:41.277669"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 8 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_15",
+        "zip_code": "16203",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.74434055433024,
+        "longitude": 2.4160205638546772,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP17669",
+        "last_update": "2025-12-18T08:50:41.277672"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 9 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_87",
+        "zip_code": "46238",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.28938928996981,
+        "longitude": 2.4832754624671556,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP60288",
+        "last_update": "2025-12-18T08:50:41.277676"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 10 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_31",
+        "zip_code": "59186",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.08322267395507,
+        "longitude": 1.8855488992425387,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP32960",
+        "last_update": "2025-12-18T08:50:41.277679"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 11 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_71",
+        "zip_code": "93184",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.44514643915156,
+        "longitude": 2.558240835522246,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP73634",
+        "last_update": "2025-12-18T08:50:41.277683"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 12 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_6",
+        "zip_code": "85931",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.0495037901581,
+        "longitude": 2.542989233249803,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP37841",
+        "last_update": "2025-12-18T08:50:41.277686"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": true,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 13 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_2",
+        "zip_code": "16944",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.81458738064417,
+        "longitude": 2.7037562353323707,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP66390",
+        "last_update": "2025-12-18T08:50:41.277689"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 14 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_48",
+        "zip_code": "53854",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.069046612260244,
+        "longitude": 2.368228319284208,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP46412",
+        "last_update": "2025-12-18T08:50:41.277693"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 15 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_93",
+        "zip_code": "15716",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.89389740485808,
+        "longitude": 2.053068548674096,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP46075",
+        "last_update": "2025-12-18T08:50:41.277696"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 16 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_88",
+        "zip_code": "72453",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.978154479776606,
+        "longitude": 2.732244675088026,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP64429",
+        "last_update": "2025-12-18T08:50:41.277699"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 17 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_26",
+        "zip_code": "53584",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.97584312502345,
+        "longitude": 2.132410125492561,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP74577",
+        "last_update": "2025-12-18T08:50:41.277702"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 18 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_31",
+        "zip_code": "79419",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.3250578967325,
+        "longitude": 2.5002220340577477,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP63501",
+        "last_update": "2025-12-18T08:50:41.277706"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 19 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_35",
+        "zip_code": "37440",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.56224555488874,
+        "longitude": 2.5387725437985935,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP75565",
+        "last_update": "2025-12-18T08:50:41.277709"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 20 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_85",
+        "zip_code": "94827",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.83883443833511,
+        "longitude": 2.422881025005263,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP32112",
+        "last_update": "2025-12-18T08:50:41.277713"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 21 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_74",
+        "zip_code": "61966",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.060860284446065,
+        "longitude": 2.1464102996586756,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP35437",
+        "last_update": "2025-12-18T08:50:41.277716"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 22 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_80",
+        "zip_code": "87033",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.841006288143674,
+        "longitude": 2.4938441431024256,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP62391",
+        "last_update": "2025-12-18T08:50:41.277720"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 23 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_89",
+        "zip_code": "25998",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.718111689402214,
+        "longitude": 2.3579688141201895,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP60853",
+        "last_update": "2025-12-18T08:50:41.277792"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 24 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_22",
+        "zip_code": "14239",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.00035138358521,
+        "longitude": 2.518681518654728,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP82881",
+        "last_update": "2025-12-18T08:50:41.277796"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 25 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_42",
+        "zip_code": "77341",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.2156537670059,
+        "longitude": 2.195682512162733,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP61226",
+        "last_update": "2025-12-18T08:50:41.277799"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 26 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_59",
+        "zip_code": "68188",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.820661882919424,
+        "longitude": 2.7207135058667085,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP10663",
+        "last_update": "2025-12-18T08:50:41.277802"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 27 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_8",
+        "zip_code": "54252",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.55348995184759,
+        "longitude": 2.770906238428125,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP55609",
+        "last_update": "2025-12-18T08:50:41.277806"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 28 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_18",
+        "zip_code": "92457",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.583500906070746,
+        "longitude": 2.0923562652055034,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP40194",
+        "last_update": "2025-12-18T08:50:41.277809"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": false,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 29 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_1",
+        "zip_code": "96971",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.033657875218644,
+        "longitude": 2.2504007320484885,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP76127",
+        "last_update": "2025-12-18T08:50:41.277812"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 30 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_76",
+        "zip_code": "70367",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.04102936495096,
+        "longitude": 1.9210426823897613,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP23818",
+        "last_update": "2025-12-18T08:50:41.277816"
+      }
+    ]
+  }
+]

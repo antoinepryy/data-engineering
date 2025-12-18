@@ -1,0 +1,5882 @@
+[
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 1 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_17",
+        "zip_code": "64953",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.81525835241808,
+        "longitude": 2.672243910799402,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA61311",
+        "last_update": "2025-12-18T08:50:41.278570"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 2 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_55",
+        "zip_code": "46761",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.83073128310269,
+        "longitude": 2.6119054236690147,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA41328",
+        "last_update": "2025-12-18T08:50:41.278582"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 3 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_100",
+        "zip_code": "12157",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.893481991174525,
+        "longitude": 2.088615182213034,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA65515",
+        "last_update": "2025-12-18T08:50:41.278586"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 4 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_34",
+        "zip_code": "11031",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.05154003210631,
+        "longitude": 2.2577590825054896,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA91322",
+        "last_update": "2025-12-18T08:50:41.278589"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 5 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_72",
+        "zip_code": "25854",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.82203808410803,
+        "longitude": 2.456270918975733,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA50951",
+        "last_update": "2025-12-18T08:50:41.278592"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 6 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_64",
+        "zip_code": "90904",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.80293282164798,
+        "longitude": 2.0702670224270023,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA35248",
+        "last_update": "2025-12-18T08:50:41.278596"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 7 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_95",
+        "zip_code": "21474",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.24157733559404,
+        "longitude": 2.61657633691392,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA33116",
+        "last_update": "2025-12-18T08:50:41.278600"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 8 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_69",
+        "zip_code": "76934",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.516442360161506,
+        "longitude": 2.3612776555476547,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA77456",
+        "last_update": "2025-12-18T08:50:41.278603"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 9 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_15",
+        "zip_code": "91946",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.74959649972375,
+        "longitude": 2.7940117233405233,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA25008",
+        "last_update": "2025-12-18T08:50:41.278606"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 10 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_21",
+        "zip_code": "87402",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.01028465386714,
+        "longitude": 2.263091794847574,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA80975",
+        "last_update": "2025-12-18T08:50:41.278609"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 11 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_42",
+        "zip_code": "44007",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.59058046530516,
+        "longitude": 2.3033026816768873,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA39549",
+        "last_update": "2025-12-18T08:50:41.278613"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": true,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 12 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_73",
+        "zip_code": "34161",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.56223114872227,
+        "longitude": 2.7413469948131217,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA74714",
+        "last_update": "2025-12-18T08:50:41.278616"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 13 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_65",
+        "zip_code": "78434",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.122809061781105,
+        "longitude": 2.4053943960811255,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA78382",
+        "last_update": "2025-12-18T08:50:41.278619"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 14 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_21",
+        "zip_code": "37027",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.76658634704832,
+        "longitude": 2.6451611770936667,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA67364",
+        "last_update": "2025-12-18T08:50:41.278623"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 15 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_97",
+        "zip_code": "33392",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.869168397039005,
+        "longitude": 2.6128755443826517,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA54981",
+        "last_update": "2025-12-18T08:50:41.278626"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 16 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_72",
+        "zip_code": "28421",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.90126587238239,
+        "longitude": 2.4154214925414164,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA63428",
+        "last_update": "2025-12-18T08:50:41.278630"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 17 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_39",
+        "zip_code": "63723",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.660798646622375,
+        "longitude": 2.4190672084400884,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA35944",
+        "last_update": "2025-12-18T08:50:41.278633"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 18 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_10",
+        "zip_code": "34312",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.53882819124438,
+        "longitude": 2.4895462553110264,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA98855",
+        "last_update": "2025-12-18T08:50:41.278636"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 19 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_25",
+        "zip_code": "93304",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.177990823744906,
+        "longitude": 2.6360591823739026,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA73027",
+        "last_update": "2025-12-18T08:50:41.278640"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": false,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 20 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_1",
+        "zip_code": "53343",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.673465173590095,
+        "longitude": 2.5119267237287772,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA61190",
+        "last_update": "2025-12-18T08:50:41.278643"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 21 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_6",
+        "zip_code": "58262",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.05129539039738,
+        "longitude": 2.3929990189882346,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA92385",
+        "last_update": "2025-12-18T08:50:41.278646"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 22 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_21",
+        "zip_code": "13226",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.517890507940805,
+        "longitude": 2.358185781113047,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA88460",
+        "last_update": "2025-12-18T08:50:41.278650"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 23 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_58",
+        "zip_code": "10938",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.242640760130975,
+        "longitude": 2.7842955924347472,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA76263",
+        "last_update": "2025-12-18T08:50:41.278720"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 24 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_46",
+        "zip_code": "63152",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.766200272488135,
+        "longitude": 2.5999148358705906,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA57340",
+        "last_update": "2025-12-18T08:50:41.278724"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 25 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_84",
+        "zip_code": "28118",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.3684236744277,
+        "longitude": 2.249164626419593,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA28873",
+        "last_update": "2025-12-18T08:50:41.278727"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 26 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_34",
+        "zip_code": "83098",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.534135562976246,
+        "longitude": 2.618110277222677,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA14144",
+        "last_update": "2025-12-18T08:50:41.278731"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 27 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_6",
+        "zip_code": "35592",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.65724575745365,
+        "longitude": 1.8777163902112401,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA61597",
+        "last_update": "2025-12-18T08:50:41.278734"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 28 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_39",
+        "zip_code": "28276",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.226434222457854,
+        "longitude": 2.406706756182647,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA28067",
+        "last_update": "2025-12-18T08:50:41.278737"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 29 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_99",
+        "zip_code": "82434",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.33473228875705,
+        "longitude": 2.6420758113043608,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA20856",
+        "last_update": "2025-12-18T08:50:41.278741"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": false,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 30 - datatourisme"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_22",
+        "zip_code": "76804",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.16320668575809,
+        "longitude": 1.8186722568678375,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "datatourisme",
+        "reference": "DA41745",
+        "last_update": "2025-12-18T08:50:41.278744"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 1 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_18",
+        "zip_code": "50333",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.103073850007355,
+        "longitude": 1.9744614787957229,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP61390",
+        "last_update": "2025-12-18T08:50:41.277643"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 2 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_47",
+        "zip_code": "74331",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.59848459005265,
+        "longitude": 1.938095754974705,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP78712",
+        "last_update": "2025-12-18T08:50:41.277650"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 3 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_42",
+        "zip_code": "22182",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.12537590454127,
+        "longitude": 2.470390862733682,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP83296",
+        "last_update": "2025-12-18T08:50:41.277654"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 4 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_73",
+        "zip_code": "47188",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.58668745051609,
+        "longitude": 2.17881498899039,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP54884",
+        "last_update": "2025-12-18T08:50:41.277658"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 5 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_25",
+        "zip_code": "70570",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.28910258792722,
+        "longitude": 1.8115412299945406,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP23088",
+        "last_update": "2025-12-18T08:50:41.277662"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 6 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_4",
+        "zip_code": "16142",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.76383290761113,
+        "longitude": 2.5804337447388965,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP45394",
+        "last_update": "2025-12-18T08:50:41.277665"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 7 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_34",
+        "zip_code": "30523",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.76735111533229,
+        "longitude": 2.66910861689912,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP15359",
+        "last_update": "2025-12-18T08:50:41.277669"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 8 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_15",
+        "zip_code": "16203",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.74434055433024,
+        "longitude": 2.4160205638546772,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP17669",
+        "last_update": "2025-12-18T08:50:41.277672"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 9 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_87",
+        "zip_code": "46238",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.28938928996981,
+        "longitude": 2.4832754624671556,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP60288",
+        "last_update": "2025-12-18T08:50:41.277676"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 10 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_31",
+        "zip_code": "59186",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.08322267395507,
+        "longitude": 1.8855488992425387,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP32960",
+        "last_update": "2025-12-18T08:50:41.277679"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 11 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_71",
+        "zip_code": "93184",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.44514643915156,
+        "longitude": 2.558240835522246,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP73634",
+        "last_update": "2025-12-18T08:50:41.277683"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 12 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_6",
+        "zip_code": "85931",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.0495037901581,
+        "longitude": 2.542989233249803,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP37841",
+        "last_update": "2025-12-18T08:50:41.277686"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": true,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 13 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_2",
+        "zip_code": "16944",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.81458738064417,
+        "longitude": 2.7037562353323707,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP66390",
+        "last_update": "2025-12-18T08:50:41.277689"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 14 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_48",
+        "zip_code": "53854",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.069046612260244,
+        "longitude": 2.368228319284208,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP46412",
+        "last_update": "2025-12-18T08:50:41.277693"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 15 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_93",
+        "zip_code": "15716",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.89389740485808,
+        "longitude": 2.053068548674096,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP46075",
+        "last_update": "2025-12-18T08:50:41.277696"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 16 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_88",
+        "zip_code": "72453",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.978154479776606,
+        "longitude": 2.732244675088026,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP64429",
+        "last_update": "2025-12-18T08:50:41.277699"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 17 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_26",
+        "zip_code": "53584",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.97584312502345,
+        "longitude": 2.132410125492561,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP74577",
+        "last_update": "2025-12-18T08:50:41.277702"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 18 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_31",
+        "zip_code": "79419",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.3250578967325,
+        "longitude": 2.5002220340577477,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP63501",
+        "last_update": "2025-12-18T08:50:41.277706"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 19 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_35",
+        "zip_code": "37440",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.56224555488874,
+        "longitude": 2.5387725437985935,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP75565",
+        "last_update": "2025-12-18T08:50:41.277709"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 20 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_85",
+        "zip_code": "94827",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.83883443833511,
+        "longitude": 2.422881025005263,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP32112",
+        "last_update": "2025-12-18T08:50:41.277713"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 21 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_74",
+        "zip_code": "61966",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.060860284446065,
+        "longitude": 2.1464102996586756,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP35437",
+        "last_update": "2025-12-18T08:50:41.277716"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 22 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_80",
+        "zip_code": "87033",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.841006288143674,
+        "longitude": 2.4938441431024256,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP62391",
+        "last_update": "2025-12-18T08:50:41.277720"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 23 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_89",
+        "zip_code": "25998",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.718111689402214,
+        "longitude": 2.3579688141201895,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP60853",
+        "last_update": "2025-12-18T08:50:41.277792"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 24 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_22",
+        "zip_code": "14239",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.00035138358521,
+        "longitude": 2.518681518654728,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP82881",
+        "last_update": "2025-12-18T08:50:41.277796"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 25 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_42",
+        "zip_code": "77341",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.2156537670059,
+        "longitude": 2.195682512162733,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP61226",
+        "last_update": "2025-12-18T08:50:41.277799"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 26 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_59",
+        "zip_code": "68188",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.820661882919424,
+        "longitude": 2.7207135058667085,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP10663",
+        "last_update": "2025-12-18T08:50:41.277802"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 27 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_8",
+        "zip_code": "54252",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.55348995184759,
+        "longitude": 2.770906238428125,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP55609",
+        "last_update": "2025-12-18T08:50:41.277806"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 28 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_18",
+        "zip_code": "92457",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.583500906070746,
+        "longitude": 2.0923562652055034,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP40194",
+        "last_update": "2025-12-18T08:50:41.277809"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": false,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 29 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_1",
+        "zip_code": "96971",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.033657875218644,
+        "longitude": 2.2504007320484885,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP76127",
+        "last_update": "2025-12-18T08:50:41.277812"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 30 - apidae"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_76",
+        "zip_code": "70367",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.04102936495096,
+        "longitude": 1.9210426823897613,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "apidae",
+        "reference": "AP23818",
+        "last_update": "2025-12-18T08:50:41.277816"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 1 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_22",
+        "zip_code": "99415",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.152741932848464,
+        "longitude": 2.1243618324710876,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR55188",
+        "last_update": "2025-12-18T08:50:41.276644"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 2 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_42",
+        "zip_code": "76698",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.74079921340613,
+        "longitude": 1.9384581762747333,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR65599",
+        "last_update": "2025-12-18T08:50:41.276653"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 3 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_84",
+        "zip_code": "22740",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.52032557162257,
+        "longitude": 2.581246074127871,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR78965",
+        "last_update": "2025-12-18T08:50:41.276657"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 4 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_37",
+        "zip_code": "55436",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.7416869911678,
+        "longitude": 1.8063529302643417,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR93275",
+        "last_update": "2025-12-18T08:50:41.276661"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 5 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_92",
+        "zip_code": "16322",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.85335281143816,
+        "longitude": 2.376172444165129,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR90545",
+        "last_update": "2025-12-18T08:50:41.276664"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 6 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_78",
+        "zip_code": "63289",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.84816055994154,
+        "longitude": 2.331523747354556,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR57060",
+        "last_update": "2025-12-18T08:50:41.276668"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 7 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_96",
+        "zip_code": "96571",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.65360619567681,
+        "longitude": 2.6189357916671323,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR60115",
+        "last_update": "2025-12-18T08:50:41.276672"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 8 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_71",
+        "zip_code": "78493",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.99088489005999,
+        "longitude": 2.5195666029777803,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR42970",
+        "last_update": "2025-12-18T08:50:41.276675"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 9 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_63",
+        "zip_code": "40384",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.59261869829475,
+        "longitude": 2.425121186084919,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR41257",
+        "last_update": "2025-12-18T08:50:41.276679"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 10 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_17",
+        "zip_code": "53774",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.43543546465077,
+        "longitude": 2.6748587066679423,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR29525",
+        "last_update": "2025-12-18T08:50:41.276682"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 11 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_57",
+        "zip_code": "44936",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.69496257654855,
+        "longitude": 1.8710335858524683,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR11436",
+        "last_update": "2025-12-18T08:50:41.276685"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 12 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_23",
+        "zip_code": "25269",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.160768388781804,
+        "longitude": 2.707259411516599,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR86983",
+        "last_update": "2025-12-18T08:50:41.276689"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 13 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_10",
+        "zip_code": "66545",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.078216740448724,
+        "longitude": 2.376434143683051,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR67721",
+        "last_update": "2025-12-18T08:50:41.276692"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 14 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_57",
+        "zip_code": "14554",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.77715849818809,
+        "longitude": 2.751839302274872,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR39810",
+        "last_update": "2025-12-18T08:50:41.276695"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 15 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_27",
+        "zip_code": "11616",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.933789544527414,
+        "longitude": 2.5223962747258435,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR82118",
+        "last_update": "2025-12-18T08:50:41.276699"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 16 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_71",
+        "zip_code": "55776",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.17465123095538,
+        "longitude": 2.544015234824884,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR37420",
+        "last_update": "2025-12-18T08:50:41.276702"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 17 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_9",
+        "zip_code": "22162",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.2650834930163,
+        "longitude": 2.278694629302951,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR26525",
+        "last_update": "2025-12-18T08:50:41.276706"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 18 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_99",
+        "zip_code": "89163",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.206253003744436,
+        "longitude": 2.3888379316996264,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR18747",
+        "last_update": "2025-12-18T08:50:41.276709"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 19 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_57",
+        "zip_code": "73579",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.56746343406622,
+        "longitude": 2.3631664532329832,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR39905",
+        "last_update": "2025-12-18T08:50:41.276712"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 20 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_37",
+        "zip_code": "86202",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.7835742606348,
+        "longitude": 2.4035960622449366,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR40352",
+        "last_update": "2025-12-18T08:50:41.276715"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 21 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_47",
+        "zip_code": "51002",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.174290737642835,
+        "longitude": 2.101637468692977,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR48512",
+        "last_update": "2025-12-18T08:50:41.276719"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 22 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_1",
+        "zip_code": "14330",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.9098290560666,
+        "longitude": 2.0079507884416086,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR13306",
+        "last_update": "2025-12-18T08:50:41.276722"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 23 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_84",
+        "zip_code": "36102",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.988599681973156,
+        "longitude": 2.2764953282321794,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR46143",
+        "last_update": "2025-12-18T08:50:41.276801"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 24 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_100",
+        "zip_code": "57437",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.822052411784256,
+        "longitude": 2.157332443023244,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR48546",
+        "last_update": "2025-12-18T08:50:41.276805"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 25 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_16",
+        "zip_code": "11747",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.72946372549918,
+        "longitude": 1.8281747378873794,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR11454",
+        "last_update": "2025-12-18T08:50:41.276808"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 26 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_46",
+        "zip_code": "11597",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.87113678519846,
+        "longitude": 2.0265008161260485,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR58556",
+        "last_update": "2025-12-18T08:50:41.276812"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 27 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_100",
+        "zip_code": "38447",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.839506998695725,
+        "longitude": 2.068625776386285,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR60986",
+        "last_update": "2025-12-18T08:50:41.276815"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 28 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_60",
+        "zip_code": "22617",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.9942146831608,
+        "longitude": 2.2258131778939796,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR50441",
+        "last_update": "2025-12-18T08:50:41.276819"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 29 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_60",
+        "zip_code": "78776",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.341137639130125,
+        "longitude": 2.6804607192961596,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR55072",
+        "last_update": "2025-12-18T08:50:41.276822"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": true,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 30 - tripadvisor"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_81",
+        "zip_code": "56861",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.97869308287724,
+        "longitude": 1.932866860096496,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tripadvisor",
+        "reference": "TR18395",
+        "last_update": "2025-12-18T08:50:41.276825"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 1 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_13",
+        "zip_code": "14380",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.86463647850655,
+        "longitude": 2.1690777383824136,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO39608",
+        "last_update": "2025-12-18T08:50:41.281231"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 2 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_13",
+        "zip_code": "61779",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.90792928105514,
+        "longitude": 2.0880359744449803,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO56201",
+        "last_update": "2025-12-18T08:50:41.281241"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 3 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_42",
+        "zip_code": "80354",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.93083094900824,
+        "longitude": 2.0270435004637024,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO37090",
+        "last_update": "2025-12-18T08:50:41.281246"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 4 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_23",
+        "zip_code": "15624",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.01627521146439,
+        "longitude": 2.674311279636592,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO52884",
+        "last_update": "2025-12-18T08:50:41.281250"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_5"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 5 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_36",
+        "zip_code": "11635",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.674575001015185,
+        "longitude": 2.6082422859152357,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO17902",
+        "last_update": "2025-12-18T08:50:41.281254"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 6 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_20",
+        "zip_code": "39181",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.89993395435111,
+        "longitude": 2.1171115402578935,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO35268",
+        "last_update": "2025-12-18T08:50:41.281258"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 7 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_70",
+        "zip_code": "37785",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.79389850722237,
+        "longitude": 2.031662209650389,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO30348",
+        "last_update": "2025-12-18T08:50:41.281261"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_7"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 8 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_92",
+        "zip_code": "66846",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.63932031296547,
+        "longitude": 2.2446662244432076,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO29538",
+        "last_update": "2025-12-18T08:50:41.281266"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 9 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_88",
+        "zip_code": "71910",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.496375202702545,
+        "longitude": 2.716649152478877,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO40453",
+        "last_update": "2025-12-18T08:50:41.281269"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_6"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 10 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_78",
+        "zip_code": "17803",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.05445652731843,
+        "longitude": 1.9269445343962261,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO13454",
+        "last_update": "2025-12-18T08:50:41.281273"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 11 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_62",
+        "zip_code": "14538",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.592387191408136,
+        "longitude": 2.719811915193609,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO81061",
+        "last_update": "2025-12-18T08:50:41.281277"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 12 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_45",
+        "zip_code": "25252",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.8555629149338,
+        "longitude": 2.6947492615414554,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO18027",
+        "last_update": "2025-12-18T08:50:41.281280"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 13 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_43",
+        "zip_code": "76601",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.48103528499537,
+        "longitude": 2.565513045064961,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO60897",
+        "last_update": "2025-12-18T08:50:41.281284"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 14 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_37",
+        "zip_code": "49277",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.510341821176794,
+        "longitude": 1.8697858218920005,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO20494",
+        "last_update": "2025-12-18T08:50:41.281287"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "sites"
+    ],
+    "poi_name": {
+      "fr": "POI Test 15 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_57",
+        "zip_code": "84932",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.62237766945809,
+        "longitude": 1.813332446601812,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO67281",
+        "last_update": "2025-12-18T08:50:41.281291"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 16 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_69",
+        "zip_code": "93654",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.998088826377995,
+        "longitude": 2.5616445218917527,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO16832",
+        "last_update": "2025-12-18T08:50:41.281295"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 17 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_57",
+        "zip_code": "62139",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.75514270636229,
+        "longitude": 2.5644143526988943,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO81854",
+        "last_update": "2025-12-18T08:50:41.281298"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 18 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_94",
+        "zip_code": "59304",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.17036719951378,
+        "longitude": 2.7041833819010392,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO78808",
+        "last_update": "2025-12-18T08:50:41.281302"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 19 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_81",
+        "zip_code": "95150",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.2063685309884,
+        "longitude": 2.354688712786802,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO18493",
+        "last_update": "2025-12-18T08:50:41.281305"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": false,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 20 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_74",
+        "zip_code": "52597",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.36465275586248,
+        "longitude": 1.9671259033547397,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO82300",
+        "last_update": "2025-12-18T08:50:41.281309"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_3"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 21 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_75",
+        "zip_code": "78139",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.926863968810366,
+        "longitude": 1.9992305629436575,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO94159",
+        "last_update": "2025-12-18T08:50:41.281312"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_9"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 22 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_97",
+        "zip_code": "65824",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.8408176553259,
+        "longitude": 2.6725105933994087,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO12255",
+        "last_update": "2025-12-18T08:50:41.281316"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_2"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 23 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_7",
+        "zip_code": "43513",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.966456839606174,
+        "longitude": 2.302498674728911,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO53562",
+        "last_update": "2025-12-18T08:50:41.281405"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 24 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_77",
+        "zip_code": "22107",
+        "department": null,
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.929414111155154,
+        "longitude": 2.7334306277611353,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO91146",
+        "last_update": "2025-12-18T08:50:41.281409"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "accommodations"
+    ],
+    "poi_name": {
+      "fr": "POI Test 25 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_29",
+        "zip_code": "23237",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.07096434357084,
+        "longitude": 2.6623290948221543,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO29484",
+        "last_update": "2025-12-18T08:50:41.281413"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 26 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_26",
+        "zip_code": "72237",
+        "department": null,
+        "region": "Ile-de-France",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.21537446744325,
+        "longitude": 2.4990563703859867,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO22737",
+        "last_update": "2025-12-18T08:50:41.281417"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_10"
+    ],
+    "types": [
+      "restaurants"
+    ],
+    "poi_name": {
+      "fr": "POI Test 27 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_34",
+        "zip_code": "58005",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.87228413206487,
+        "longitude": 2.765025963262909,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO59307",
+        "last_update": "2025-12-18T08:50:41.281420"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_1"
+    ],
+    "types": [
+      "events"
+    ],
+    "poi_name": {
+      "fr": "POI Test 28 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_88",
+        "zip_code": "64739",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.93729231745618,
+        "longitude": 2.606459847667577,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO57070",
+        "last_update": "2025-12-18T08:50:41.281425"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_8"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 29 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_53",
+        "zip_code": "58898",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 49.00246190358166,
+        "longitude": 1.8983960911588642,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO43924",
+        "last_update": "2025-12-18T08:50:41.281429"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "closed": false,
+    "display": true,
+    "tags": [
+      "tag_4"
+    ],
+    "types": [
+      "activities"
+    ],
+    "poi_name": {
+      "fr": "POI Test 30 - tourinsoft"
+    },
+    "addresses": [
+      {
+        "insee_code": null,
+        "city": "Ville_82",
+        "zip_code": "22564",
+        "department": null,
+        "region": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "address_complement": null,
+        "street_addresses": []
+      }
+    ],
+    "geopoints": [
+      {
+        "latitude": 48.5897794280995,
+        "longitude": 2.018506987649591,
+        "altitude": null
+      }
+    ],
+    "contacts": [],
+    "descriptions": [],
+    "pictures": [],
+    "products": [],
+    "schedules": [],
+    "ratings": null,
+    "age_limit": null,
+    "duration": null,
+    "group_size_limit": null,
+    "sources": [
+      {
+        "source": "tourinsoft",
+        "reference": "TO53409",
+        "last_update": "2025-12-18T08:50:41.281432"
+      }
+    ]
+  }
+]

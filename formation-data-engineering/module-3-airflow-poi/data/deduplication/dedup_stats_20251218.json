@@ -1,0 +1,15 @@
+{
+  "input_count": 120,
+  "output_count": 120,
+  "reduction_rate": 0.0,
+  "aggregation_stats": {
+    "total_groups": 0,
+    "pois_aggregated": 0,
+    "unique_pois_kept": 120,
+    "by_method": {
+      "common_reference": 0,
+      "similarity": 0
+    }
+  },
+  "timestamp": "2025-12-18T08:51:22.623310"
+}

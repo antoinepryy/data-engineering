@@ -1,0 +1,36 @@
+{
+  "use_real_apis": false,
+  "fake": {
+    "num_pois": 100,
+    "duplicate_rate": 0.15
+  },
+  "providers": {
+    "datatourisme": {
+      "enabled": false,
+      "api_key": "",
+      "base_url": "https://diffuseur.datatourisme.fr/webservice",
+      "description": "API Datatourisme - Données touristiques françaises (gratuit)"
+    },
+    "apidae": {
+      "enabled": false,
+      "api_key": "",
+      "api_secret": "",
+      "projet_id": "",
+      "base_url": "https://api.apidae-tourisme.com/api/v002",
+      "description": "API Apidae - Données touristiques régionales (Auvergne-Rhône-Alpes, etc.)"
+    },
+    "tripadvisor": {
+      "enabled": false,
+      "api_key": "",
+      "base_url": "https://api.content.tripadvisor.com/api/v1",
+      "description": "API TripAdvisor Content - Nécessite un partenariat commercial"
+    },
+    "tourinsoft": {
+      "enabled": false,
+      "api_key": "",
+      "base_url": "",
+      "territory": "",
+      "description": "API Tourinsoft - URL variable selon le territoire"
+    }
+  }
+}
