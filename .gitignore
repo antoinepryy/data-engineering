@@ -1,2 +1,47 @@
+# IDE
 .idea/
-/imagesimages.iml
+*.iml
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+ENV/
+
+# Node / Expo
+node_modules/
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Vosk models (large files - download separately)
+# See formation-data-engineering/module-5-expo/MODELS.md for download instructions
+vosk-model-*/

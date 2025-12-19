@@ -107,21 +107,36 @@ def render():
                             'it': {'Femme': 'it-IT-ElsaNeural', 'Homme': 'it-IT-DiegoNeural'},
                         }
 
+                        output_audio = None
+
+                        # Try Edge-TTS first if language is supported
                         if target_lang in voice_map:
                             voice = voice_map[target_lang][voice_gender]
+                            try:
+                                async def generate_edge_tts():
+                                    with tempfile.NamedTemporaryFile(delete=False, suffix='.mp3') as tmp:
+                                        tmp_path = tmp.name
+                                    communicate = edge_tts.Communicate(translated_text, voice)
+                                    await communicate.save(tmp_path)
+                                    return tmp_path
 
-                            async def generate_tts():
-                                communicate = edge_tts.Communicate(translated_text, voice)
-                                output_file = tempfile.NamedTemporaryFile(delete=False, suffix='.mp3')
-                                await communicate.save(output_file.name)
-                                return output_file.name
+                                output_audio = asyncio.run(generate_edge_tts())
 
-                            output_audio = asyncio.run(generate_tts())
-                        else:
+                                # Verify file was created and has content
+                                if not output_audio or not os.path.exists(output_audio) or os.path.getsize(output_audio) == 0:
+                                    raise Exception("Edge-TTS n'a pas genere d'audio")
+
+                            except Exception as edge_err:
+                                st.warning(f"Edge-TTS a echoue ({edge_err}), utilisation de gTTS...")
+                                output_audio = None
+
+                        # Fallback to gTTS
+                        if output_audio is None:
                             tts = gTTS(text=translated_text, lang=target_lang)
-                            output_file = tempfile.NamedTemporaryFile(delete=False, suffix='.mp3')
-                            tts.save(output_file.name)
-                            output_audio = output_file.name
+                            with tempfile.NamedTemporaryFile(delete=False, suffix='.mp3') as tmp:
+                                tmp_path = tmp.name
+                            tts.save(tmp_path)
+                            output_audio = tmp_path
 
                         status.update(label="Synthese terminee", state="complete")
 
@@ -150,15 +165,20 @@ def render():
     st.divider()
     st.subheader("Architecture du Pipeline")
 
-    st.mermaid("""
-    graph LR
-        A[Audio Source] --> B[STT/Whisper]
-        B --> C[Texte Source]
-        C --> D[Traduction API]
-        D --> E[Texte Traduit]
-        E --> F[TTS Engine]
-        F --> G[Audio Traduit]
-
-        style A fill:#f9f,stroke:#333,stroke-width:2px
-        style G fill:#9f9,stroke:#333,stroke-width:2px
+    st.markdown("""
+    ```
+    +---------------+     +-------------+     +--------------+
+    | Audio Source  | --> | STT/Whisper | --> | Texte Source |
+    +---------------+     +-------------+     +--------------+
+                                                     |
+                                                     v
+                                            +----------------+
+                                            | Traduction API |
+                                            +----------------+
+                                                     |
+                                                     v
+    +---------------+     +------------+     +---------------+
+    | Audio Traduit | <-- | TTS Engine | <-- | Texte Traduit |
+    +---------------+     +------------+     +---------------+
+    ```
     """)

@@ -464,32 +464,33 @@ def main():
         """)
         
         search = st.text_input("Recherche de datasets", value="tourisme")
-        limit = st.slider("Nombre de resultats", 5, 50, 10)
+        limit = st.slider("Nombre de resultats", 5, 50, 10, key="datagouv_limit")
         
-        if st.button("🔍 Rechercher datasets"):
+        if st.button("🔍 Rechercher datasets", key="datagouv_search"):
             with st.spinner("Recherche..."):
-                datasets = fetch_data_gouv_datasets(search, limit)
+                st.session_state.datagouv_results = fetch_data_gouv_datasets(search, limit)
+        
+        if st.session_state.datagouv_results:
+            datasets = st.session_state.datagouv_results
+            st.success(f"{len(datasets)} dataset(s) trouve(s)")
             
-            if datasets:
-                st.success(f"{len(datasets)} dataset(s) trouve(s)")
-                
-                with st.expander("📄 Reponse JSON brute"):
-                    st.json(datasets[:2])
-                
-                for ds in datasets:
-                    with st.expander(f"📁 {ds.get('title', 'Sans titre')[:80]}"):
-                        st.write(f"**Organisation**: {ds.get('organization', {}).get('name', 'N/A')}")
-                        st.write(f"**Description**: {ds.get('description', 'N/A')[:300]}...")
-                        st.write(f"**Derniere MAJ**: {ds.get('last_modified', 'N/A')[:10]}")
-                        st.write(f"**Ressources**: {len(ds.get('resources', []))} fichier(s)")
-                        
-                        resources = ds.get("resources", [])[:3]
-                        if resources:
-                            st.write("**Fichiers disponibles:**")
-                            for r in resources:
-                                st.write(f"- [{r.get('title', 'fichier')}]({r.get('url', '#')}) ({r.get('format', 'N/A')})")
-            else:
-                st.warning("Aucun dataset trouve")
+            with st.expander("📄 Reponse JSON brute"):
+                st.json(datasets[:2])
+            
+            for ds in datasets:
+                with st.expander(f"📁 {ds.get('title', 'Sans titre')[:80]}"):
+                    org = ds.get('organization') or {}
+                    st.write(f"**Organisation**: {org.get('name', 'N/A')}")
+                    st.write(f"**Description**: {(ds.get('description') or 'N/A')[:300]}...")
+                    last_mod = ds.get('last_modified') or 'N/A'
+                    st.write(f"**Derniere MAJ**: {last_mod[:10] if len(last_mod) > 10 else last_mod}")
+                    st.write(f"**Ressources**: {len(ds.get('resources', []))} fichier(s)")
+                    
+                    resources = ds.get("resources", [])[:3]
+                    if resources:
+                        st.write("**Fichiers disponibles:**")
+                        for r in resources:
+                            st.write(f"- [{r.get('title', 'fichier')}]({r.get('url', '#')}) ({r.get('format', 'N/A')})")
     
     # Footer
     st.sidebar.markdown("---")

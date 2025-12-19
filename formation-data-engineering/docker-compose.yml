@@ -11,17 +11,22 @@ services:
     container_name: vocal-python
     ports:
       - "8501:8501"  # Streamlit
-      - "5000:5000"  # Flask API
+      - "5000:5000"  # Flask STT API
     volumes:
       - ./module-1-vocal:/app
+      - ./module-5-expo/api:/app/module-5-expo/api  # API STT
       - ./data:/data
     environment:
       - PYTHONUNBUFFERED=1
+      - FLASK_DEBUG=false
     networks:
       - formation-network
     stdin_open: true
     tty: true
-    command: tail -f /dev/null
+    # Lance l'API STT Flask en arriere-plan + Streamlit
+    command: >
+      bash -c "python api_server.py &
+               streamlit run app.py --server.port=8501 --server.address=0.0.0.0"
 
   vocal-node:
     build:
